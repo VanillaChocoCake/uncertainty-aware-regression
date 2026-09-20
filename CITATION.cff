@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "uncertainty-aware-regression"
+type: software
+authors:
+  - family-names: Sun
+    given-names: Peihan
+repository-code: "https://github.com/VanillaChocoCake/uncertainty-aware-regression"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Real-time-capable betatron tune measurement from Schottky spectra using deep learning and uncertainty-aware Kalman filtering"
+  authors:
+    - family-names: Sun
+      given-names: Peihan
+    - family-names: Zhang
+      given-names: Manzhou
+    - family-names: Yuan
+      given-names: Renxian
+    - family-names: Li
+      given-names: Deming
+    - family-names: Dong
+      given-names: Jian
+    - family-names: Shi
+      given-names: Ying
+  journal: "Journal of Instrumentation"
+  volume: 21
+  issue: "02"
+  start: "P02049"
+  year: 2026
+  doi: "10.1088/1748-0221/21/02/P02049"
